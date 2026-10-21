@@ -4,6 +4,8 @@ ul {
 
 #navigation {
     position: sticky;
+    z-index: 1;
+    color: white;
 }
 
 #navigation > .container {
