@@ -3,7 +3,7 @@ import ProjectCard from './ProjectCard.jsx'
 
 const Projects = () => {
     return (
-        <div id="projects">
+        <div id={styles.projects}>
             <div className={styles.container}>
                 <h1>Projects</h1>
                 <div className={styles.cardContainer}>
