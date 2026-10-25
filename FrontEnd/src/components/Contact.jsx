@@ -3,6 +3,7 @@ import cardStyles from './Card.module.css'
 import github from '../assets/github.png'
 import linkedin from '../assets/linkedin.png'
 import mail from '../assets/mail.png'
+import ContactUs from './ContactUs.jsx'
 
 const linkedinUrl = 'https://www.linkedin.com/in/kenneth-ao-a5271510b';
 const githubUrl = 'https://github.com/kenifow123';
@@ -36,6 +37,8 @@ const Contact = () => {
                         </div>
                     </div>
                 </div>
+
+                <ContactUs/>
 
             </div>
         </div>
