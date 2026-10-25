@@ -15,7 +15,7 @@ const About = () => {
                     <img src={defaultAvatar} alt="head portrait img"/>
                     <div className={styles.textContent}>
                         <h2>I'm Kenneth Ao. </h2>
-                        <p>I'm a Web Developer and I'm also working as a Customer Line Agent. I build user-friendly and responsive websites to help people and businesses meet their needs.</p>
+                        <p>I'm a Full Stack Engineer. I build user-friendly and responsive applications to help people and businesses meet their needs.</p>
                         <div className={styles.line}><p><strong>Location:</strong>Los Angeles</p></div>
                         <p><strong>Language:</strong>English</p>
                         <p><strong>Hobbies:</strong>Fishing, Sports, Camping</p>
